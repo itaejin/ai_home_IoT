@@ -4,7 +4,7 @@
 This project combines artificial intelligence and IoT to create a smart home system. It utilizes cameras for facial and finger-count recognition, while various sensors control objects within the home. To monitor real-time data, sensor information is managed through InfluxDB via the EMQX Broker. The data is then visualized using Grafana for easy user access.
 
 ## Features
-### 1.Facial Recognition for Door Lock Control
+### 1. Facial Recognition for Door Lock Control
 When standing in front of the front door, the system automatically recognizes the face and unlocks the door. 
 
 The recognition accuracy is set to 75%.
