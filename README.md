@@ -1,7 +1,7 @@
 # Project Topic
 AI and IoT-based Smart Home
 
-## Features
+# Features
 
 1. Face Recognition for Door Lock Control
 
