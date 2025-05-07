@@ -5,7 +5,9 @@ AI and IoT-based Smart Home
 
 ## 1. Face Recognition for Door Lock Control
 
-Run face_data.py to prepare user face training data.
+Run face_data.py to prepare user face training data. This script will capture and generate 100 facial images in real-time for training.
+
+
 
 Use face_recognition.py for face recognition and door lock control.
 
