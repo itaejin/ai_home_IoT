@@ -1,5 +1,4 @@
-# Project Topic
-AI and IoT Integrated Smart Home
+# AI and IoT Integrated Smart Home
 
 # Project Overview
 This project combines artificial intelligence and IoT to create a smart home system. It utilizes cameras for facial and finger-count recognition, while various sensors control objects within the home. To monitor real-time data, sensor information is managed through InfluxDB via the EMQX Broker. The data is then visualized using Grafana for easy user access.
