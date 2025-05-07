@@ -9,7 +9,6 @@ When standing in front of the front door, the system automatically recognizes th
 
 The recognition accuracy is set to 75%.
 
-
 ### 2. Fire Detection Alarm
 The system continuously operates and triggers an alarm when a fire detection sensor detects any abnormality.
 
